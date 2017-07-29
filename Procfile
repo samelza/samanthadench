@@ -1,1 +1,1 @@
-web: ivy build & ivy serve 
+web: ivy serve 
