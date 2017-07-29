@@ -1,0 +1,10 @@
+ibis==1.6.0
+ivy==0.4.6
+Jinja2==2.9.6
+libclio==2.1.0
+Markdown==2.6.8
+MarkupSafe==1.0
+Pygments==2.2.0
+PyYAML==3.12
+shortcodes==2.4.0
+syntex==0.17.0
